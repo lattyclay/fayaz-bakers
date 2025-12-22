@@ -7,25 +7,21 @@ const Footer = () => {
       <div className="container mx-auto px-4 py-12 md:py-16">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Brand */}
-          <div>
+            <div>
             <div className="flex items-center gap-3 mb-4">
-              <div className="w-12 h-12 rounded-full bg-primary-foreground flex items-center justify-center">
-                <span className="text-primary font-display text-xl font-bold">
-                  FB
-                </span>
-              </div>
+              <img src="src/assets/fayaz-logo.png" alt="Fayaz Bakers Logo" className="w-12 h-12 rounded-full" />
               <div>
-                <h3 className="font-display text-xl font-semibold">
-                  Fayaz Bakers
-                </h3>
-                <p className="text-sm opacity-80">Limited</p>
+              <h3 className="font-display text-xl font-semibold">
+                Fayaz Bakers
+              </h3>
+              <p className="text-sm opacity-80">Limited</p>
               </div>
             </div>
             <p className="text-sm opacity-80 leading-relaxed">
               Bringing you the finest baked goods since generations. Quality,
               tradition, and taste in every bite.
             </p>
-          </div>
+            </div>
 
           {/* Quick Links */}
           <div>
