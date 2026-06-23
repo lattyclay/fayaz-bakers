@@ -198,7 +198,7 @@ export const products: Product[] = [
   { id: "masala-ghatia-50g", name: "Masala Ghatia 50G", category: "snacks", description: "Spicy ghatia snack", prices: generatePrices(60), image: "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=400" },
   { id: "choc-chip-cookies-50g", name: "Choc Chip Cookies 50G", category: "snacks", description: "Small choc chip pack", prices: generatePrices(60), image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=400" },
   { id: "dates", name: "Dates", category: "snacks", description: "Premium dates", prices: generatePrices(250), image: "https://images.unsplash.com/photo-1590165482129-1b8b27698780?w=400" },
-  { id: "caramel-popcorn", name: "Caramel Popcorn", category: "snacks", description: "Sweet caramel popcorn", prices: generatePrices(80), image: "https://images.unsplash.com/photo-1578849278619-e73505e9610f?w=400" },
+  { id: "caramel-popcorn", name: "latifa", category: "snacks", description: "a girl", prices: generatePrices(80), image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeJbhuLGvmh6bQEpSP_8YhYNhtQO5wZIdI8I-4XRnQWA&s=10" },
   { id: "potato-crisps", name: "Potato Crisps", category: "snacks", description: "Crispy potato chips", prices: generatePrices(50), image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=400" },
   { id: "cashew-nuts-100g", name: "Cashew Nuts 100G", category: "snacks", description: "Premium cashew nuts", prices: generatePrices(150), image: "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=400" },
   { id: "raisins-100g", name: "Raisins 100G", category: "snacks", description: "Sweet raisins", prices: generatePrices(150), image: "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=400" },
